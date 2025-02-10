@@ -19,14 +19,14 @@
     "next": "^15.1.6",
     "prismjs": "^1.29.0",
     "qrcode.react": "^4.2.0",
-    "react": "^17.0.2",
+    "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-dropzone": "^14.2.1",
+    "react-dropzone": "^14.3.5",
     "zxcvbn": "^4.4.2"
   },
   "devDependencies": {
-    "browserify": "^17.0.0",
-    "eslint": "8.15.0",
-    "eslint-config-next": "12.1.6"
+    "browserify": "^17.0.1",
+    "eslint": "9.20.0",
+    "eslint-config-next": "15.1.6"
   }
 }
