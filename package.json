@@ -16,7 +16,7 @@
     "@material-ui/lab": "^4.0.0-alpha.61",
     "libsodium-wrappers": "^0.7.15",
     "marked": "15.0.7",
-    "next": "^15.2.0",
+    "next": "^15.2.1",
     "prismjs": "^1.29.0",
     "qrcode.react": "^4.2.0",
     "react": "^19.0.0",
