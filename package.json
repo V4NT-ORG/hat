@@ -27,6 +27,6 @@
   "devDependencies": {
     "browserify": "^17.0.1",
     "eslint": "9.22.0",
-    "eslint-config-next": "15.2.2"
+    "eslint-config-next": "15.2.3"
   }
 }
