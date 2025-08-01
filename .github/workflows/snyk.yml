@@ -1,4 +1,6 @@
 name: Snyk
+permissions:
+  contents: read
 
 on:
   push:
