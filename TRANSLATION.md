@@ -1,4 +1,4 @@
-# Hat.sh-Reworked Translation Guide
+# Hat Translation Guide
 
 ### In order to add a translation to the app, please follow these steps: 
 
