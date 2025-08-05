@@ -40,7 +40,7 @@ export default function NavAppBar() {
             </Typography>
 
             <IconButton
-              href="https://github.com/WhateverItWorks/hat.sh-reworked"
+              href="https://github.com/V4NT-ORG/hat"
               target="_blank"
               rel="noopener"
             >
